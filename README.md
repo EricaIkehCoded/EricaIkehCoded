@@ -26,7 +26,7 @@ including cmdlets, pipeline, WMI/CIM, remoting, Azure, and M365.
 - ⏳ Phases 3-9 — Coming soon
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ericawallsikeh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/erica-walls-ikeh)
 
 ---
 *Open to entry-level roles in Systems Administration and Cloud Infrastructure*

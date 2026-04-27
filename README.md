@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EricaIkehCoded/EricaIkehCoded/main/banner.png" alt="Erica Ikeh — Cloud & Systems Administrator" width="100%" />
+  <img src="banner.png" alt="Erica Ikeh — Cloud & Systems Administrator" />
 </p>
 
 # Hi, I'm Erica Ikeh 👋🏽
